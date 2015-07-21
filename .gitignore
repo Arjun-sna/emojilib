@@ -1,0 +1,13 @@
+.gradle
+.idea/
+/.idea/*.*
+/.idea/vcs.xml
+/.idea/modules.xml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+**/*.iml
+*Test.html
+emojilib
